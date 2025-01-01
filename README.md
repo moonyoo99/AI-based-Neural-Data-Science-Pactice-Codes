@@ -1,2 +1,2 @@
-# AI-based-Neural Data Science Pactice Codes
+# AI-based Neural Data Science Pactice Codes
 [TA] AI-based Neural Data Science
